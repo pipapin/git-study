@@ -1,2 +1,2 @@
 # git-study
-study-git
+testing commits
